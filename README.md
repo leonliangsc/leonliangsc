@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**leonliangsc/leonliangsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Leon Liang
 
-Here are some ideas to get you started:
+- 🔭 I'm a Software Engineer who is passionate about data engineering and open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I enjoy constantly being challenged intellectually.
+
+- :basketball: I love playing basketball.
+
+- 👯 I’m looking forward to contributing to tools that I find interesting.
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lscliang/) Email(lscliang268@gmail.com)
+
+## Some of my Github Stats
+![leonliangsc github stats](https://github-readme-stats.vercel.app/api?username=leonliangsc&show_icons=true)
